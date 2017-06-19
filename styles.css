@@ -1,1 +1,7 @@
-/* Your CSS Here */
+img {border:5px solid; border-radius:100%;}
+
+body {text-align:center; background-color:#c7d8d6; background: linear-gradient(to bottom, #c7d8d6, #484868 ); height:100%;}
+
+html {height:100%;}
+
+.container {display :flex; justify-content: space-between;}
