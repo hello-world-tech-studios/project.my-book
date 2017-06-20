@@ -1,1 +1,40 @@
-/* Your CSS Here */
+#bodytext {
+width: 80%;
+}
+
+img {
+width: 30px;
+height: 30px;
+padding-top: 0px;
+}
+
+#navbar {
+background-color: #3b5998;
+}
+
+#searchbar {
+width: 550px;
+}
+
+#logo {
+color: white;
+}
+
+#dropdown {
+color: white;
+}
+
+#name {
+color: white;
+}
+
+.jumbotron {
+background-image: url("http://swgknepal.com/Blog/wp-content/uploads/2016/12/wallhaven-288531-1500x500.jpg");
+width: 80%;
+height: 300px;
+position: center;
+}
+
+p {
+color: white;
+}
