@@ -1,1 +1,6 @@
 /* Your CSS Here */
+h1{
+  text-align: center;
+  background-color: #72a8ff;
+  color: white;
+}
