@@ -1,1 +1,20 @@
-/* Your CSS Here */
+#texts {
+color: #db7c7c;
+text-align: center;
+font-size: 100px;
+}
+#image {-moz-transform: scale(-1, 1);
+-webkit-transform: scale(-1, 1);
+-o-transform: scale(-1, 1);
+-ms-transform: scale(-1, 1);
+transform: scale(-1, 1);}
+}
+
+
+#imageTwo {
+-moz-transform: scale(-1, 1);
+-webkit-transform: scale(-1, 1);
+-o-transform: scale(-1, 1);
+-ms-transform: scale(-1, 1);
+transform: scale(-1, 1);
+}
