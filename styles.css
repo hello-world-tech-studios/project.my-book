@@ -1,20 +1,51 @@
 #texts {
 color: #db7c7c;
 text-align: center;
-font-size: 100px;
+font-size: 13vw;
+font-family: 'League Script', cursive;
+font-weight: bolder;
 }
-#image {-moz-transform: scale(-1, 1);
--webkit-transform: scale(-1, 1);
--o-transform: scale(-1, 1);
--ms-transform: scale(-1, 1);
-transform: scale(-1, 1);}
+ #image{
+width: 24vw;
+height: 20vw;
+}
+h2 {
+color: #db7c7c;
+text-align: center;
+font-size: 3vw;
+font-family: 'League Script', cursive;
 }
 
 
-#imageTwo {
--moz-transform: scale(-1, 1);
--webkit-transform: scale(-1, 1);
--o-transform: scale(-1, 1);
--ms-transform: scale(-1, 1);
-transform: scale(-1, 1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#navbarsss{
+border: 13px solid #ebb2b2;
 }
