@@ -1,42 +1,99 @@
 #bodytext {
-width: 80%;
+  width: 80%;
 }
 
 img {
-width: 30px;
-height: 30px;
-padding-top: 0px;
+  width: 30px;
+  height: 30px;
+  padding-top: 0px;
 }
 
 #navbar {
-background-color: #3b5998;
+  background-color: #3b5998;
 }
 
 #searchbar {
-width: 550px;
+  width: 550px;
 }
 
 #logo {
-color: white;
+  color: white;
 }
 
 #dropdown {
-color: white;
+  color: white;
 }
 
 #name {
-color: white;
+  color: white;
 }
 
 .jumbotron {
-background-image: url("http://swgknepal.com/Blog/wp-content/uploads/2016/12/wallhaven-288531-1500x500.jpg");
-width: 80%;
-height: 400px;
-position: center;
-margin: 0px auto;
+  background-image: url("http://swgknepal.com/Blog/wp-content/uploads/2016/12/wallhaven-288531-1500x500.jpg");
+  width: 80%;
+  height: 400px;
+  position: center;
+  margin: 0px auto;
 }
 
 p {
-color: white;
-margin-bottom: 0px auto;
+  color: white;
+  margin-bottom: 0px auto;
 }
+
+#follow {
+  position: relative;
+  bottom: -170px;
+  right: -170px;
+}
+
+#jumboName {
+  position: relative;
+  bottom: -252px;
+}
+
+#messages {
+  position: relative;
+  right: -1000px;
+  bottom: -210px;
+}
+
+#profileNav {
+  text-align: center;
+  position: relative;
+  right: -900px;
+}
+
+#navUnder {
+  width: 80%;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.nav {
+  position: center;
+}
+
+#panelPeople, #panelPosts {
+  width: 49.83%;
+  margin: 0px;
+}
+
+#panels {
+  width: 80%;
+  margin: 0px auto;
+}
+
+#panelPeople {
+  float: left;
+}
+
+#panelPosts {
+  float: right;
+}
+
+
+
+
+
+
