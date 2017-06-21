@@ -31,10 +31,12 @@ color: white;
 .jumbotron {
 background-image: url("http://swgknepal.com/Blog/wp-content/uploads/2016/12/wallhaven-288531-1500x500.jpg");
 width: 80%;
-height: 300px;
+height: 400px;
 position: center;
+margin: 0px auto;
 }
 
 p {
 color: white;
+margin-bottom: 0px auto;
 }
