@@ -1,3 +1,7 @@
+body {
+background-color: grey;
+}
+
 #bodytext {
   width: 80%;
 }
@@ -49,13 +53,13 @@ p {
 
 #jumboName {
   position: relative;
-  bottom: -252px;
+  top: 255px;
 }
 
 #messages {
   position: relative;
-  right: -1000px;
-  bottom: -210px;
+  left: 85%;
+  top: 210px;
 }
 
 #profileNav {
@@ -86,13 +90,34 @@ p {
 
 #panelPeople {
   float: left;
+  width: 39.92%;
 }
 
 #panelPosts {
   float: right;
+  width: 60%;
 }
 
+#textArea {
+  width: 100%;
+}
 
+.message-box {
+  list-style-type: none;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid #bababa;
+  border-radius: 5px;
+  background-color: #3b5998;
+}
+
+.panel {
+  background-color: white;
+}
+
+#message-box {
+color: white;
+}
 
 
 
