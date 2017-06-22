@@ -7,7 +7,7 @@ font-weight: bolder;
 }
  #image{
 width: 24vw;
-height: 20vw;
+height: 24vh;
 }
 h2 {
 color: #db7c7c;
@@ -16,7 +16,41 @@ font-size: 3vw;
 font-family: 'League Script', cursive;
 }
 
+#FeelingDIV{
+background-image: url("https://images.fineartamerica.com/images-medium-large-5/naive-art-photography-pink-truro-lighthouse-in-winter-dapixara-black-and-white-photography.jpg");
+  height: 60vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#tint{
+background-color: rgba(255, 255, 255, 0.3);
+/*z-index: 2;*/
+width: 100%;
+height: 100%;
+}
 
+#quote1 {
+z-index: 2;
+position: absolute;
+background-color: white;  
+width: 50%;
+text-align: center;
+margin: 0 auto;
+margin-top: 16%;
+margin-left: 25%;
+}
+
+#uni{
+font-size: .9em;
+color: #c48989;
+text-align: center;
+padding: 30px;
+width: 40vw;
+height: 15vh;
+margin: 0 auto;
+}
 
 
 
