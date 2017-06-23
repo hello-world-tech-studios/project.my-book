@@ -1,18 +1,18 @@
 #texts {
-color: #db7c7d;
-text-align: center;
-font-size: 13vw;
-font-family: 'League Script', cursive;
-font-weight: bolder;
+  color: #db7c7d;
+  text-align: center;
+  font-size: 13vw;
+  font-family: 'League Script', cursive;
+  font-weight: bolder;
 }
  #image{
-width: 24vw;
+  width: 24vw;
 }
 h2 {
-color: #db7c7c;
-text-align: center;
-font-size: 3vw;
-font-family: 'League Script', cursive;
+  color: #db7c7c;
+  text-align: center;
+  font-size: 3vw;
+  font-family: 'League Script', cursive;
 }
 
 #FeelingDIV{
@@ -24,103 +24,89 @@ background-image: url("https://images.fineartamerica.com/images-medium-large-5/n
   background-size: cover;
 }
 #tint{
-background-color: rgba(255, 255, 255, 0.3);
-width: 100%;
-height: 100%;
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 100%;
+  height: 100%;
 }
 
 #quote1 {
-padding: 4vh 4vw 4vh 4vw;
-width: 40vw;
-position: absolute;         
-background-color: white;  
-text-align: center;
-margin: 0 auto;
-margin-top: 10%;
-margin-left: 25%;
+  padding: 4vh 4vw 4vh 4vw;
+  width: 40vw;
+  position: absolute;         
+  background-color: white;  
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10%;
+  margin-left: 25%;
 }
 
 #uni{
-font-size: 18px;
-color: #c48989;
-text-align: center;
+  font-size: 18px;
+  color: #c48989;
+  text-align: center;
 }
 #randomint {
-text-align: center;
-font-size: 28px;
-font-family: arial;
-color: #c48989;
-padding-top: 8vh;
-padding-bottom: 8vh;
-margin: 2vw;
+  background-color: white;
+  text-align: center;
+  font-size: 28px;
+  font-family: arial;
+  color: #c48989;
+  padding-top: 8vh;
+  padding-bottom: 8vh;
 }
 
 #holamode{
 background-image: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/392ERNSOZX.jpg");
-  height: 80vh;
+  height: 100vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 #tint2{
-background-color: rgba(255, 255, 255, 0.3);
-width: 100%;
-height: 100%;
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 100%;
+  height: 100%;
 }
 #random2{
-text-align: center;
-font-size: 28px;
-font-family: arial;
-color: #c48989;
-padding-top: 8vh;
-padding-bottom: 8vh;
-margin: 2vw;
+  text-align: center;
+  font-size: 28px;
+  font-family: arial;
+  color: #c48989;
+  padding-top: 8vh;
+  padding-bottom: 8vh;
+  margin: 2vw;
 }
 
 h1{
-color: #db7c7d;
-text-align: center;
-font-size: 13vw;
-font-family: 'League Script', cursive;
-font-weight: bolder;
-border: 12px double #ebb2b2;
-padding: 55px;
-margin-left:111px;
-margin-right: 111px;
+  color: #db7c7d;
+  text-align: center;
+  font-size: 13vw;
+  font-family: 'League Script', cursive;
+  font-weight: bolder;
+  border: 12px double #ebb2b2;
+  padding: 55px;
+  margin-left:111px;
+  margin-right: 111px;
 }
 #abouttt{
-width: 50%;
+  width: 50%;
 }
 
 p{
-color: #db7c7c;
-text-align: left;
-font-size: 2.5vw;
-font-family: arial;
-float: left;
+  color: #db7c7c;
+  text-align: left;
+  font-size: 2.5vw;
+  font-family: arial;
+  float: left;
 }
-
 #camera{
-width: 50%;
+  width: 50%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #navbarsss{
-border: 13px solid #ebb2b2;
+  border: 13px double #ebb2b2;
+}
+footer p{
+  text-align: center;
+  font-size: 12px;
 }
