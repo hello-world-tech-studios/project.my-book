@@ -116,7 +116,17 @@ p {
 }
 
 #message-box {
-color: white;
+  color: white;
+}
+
+.postCreator {
+  border: 1px solid darkblue;
+  border-radius: 10px;
+}
+
+#postName {
+  border: 1px solid darkblue;
+  border-radius: 10px;
 }
 
 
